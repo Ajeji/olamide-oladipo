@@ -61,5 +61,5 @@ https://www.kaggle.com/competitions/south-african-language-identification-hack-2
 ## Conclusion
 This project covers techniques for cleaning text data and extracting features to use with machine learning models. It also demonstrated how TfidVectorizer can be used to clean text data and extract features, transforming the text data into a matrix of numbers that can be fed into a machine learning model.Results of the accuracy was made to Kaggle and saved as well for future use.
 ## Refrences
-https://readme.so/editor
-https://www.youtube.com/watch?v=4ATucrptdYA
+- https://readme.so/editor
+- https://www.youtube.com/watch?v=4ATucrptdYA
